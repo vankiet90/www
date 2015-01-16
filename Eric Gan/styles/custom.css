@@ -23,3 +23,7 @@ h3 + p, h4 + p {
 .ios7 .ui-page, .ios7 .ui-pane {
 	margin-top: 20px;
 }
+
+h1{
+	color: red;
+}
